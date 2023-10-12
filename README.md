@@ -43,3 +43,5 @@ Please refer to the paper for more information, and cite it if you make use of t
 The first author was funded by the European Research Council (ERC), under the Horizon Europe research and innovation programme (SALSA, grant agreement No 101100615), ERDF/MICINN-AEI (SCANNER-UDC, PID2020-113230RB-C21), Xunta de Galicia (ED431C 2020/11), and Centro de Investigación de Galicia ‘‘CITIC’’, funded by the Xunta de Galicia through the collaboration agreement between the Consellería de Cultura, Educación, Formación Profesional e Universidades and the Galician universities for the reinforcement of the research centres of the Galician University System (CIGUS).
 
 We thank Olga Zamaraeva for comments on preliminary versions of this work, and two anonymous reviewers for their helpful comments. Last, but not least, we thank our volunteers who participated in the writing and grading of stories, in alphabetical order: Jayda Franks, Bree Glasbergen, Ola Kwintowski, Jay Ludowyke, Kyle Mackenzie, Kirsty Maclachlan, Caitlin Noakes, Rachelle Raco, Kylie Ryan and Josephine Stewart.
+
+[![DOI](https://zenodo.org/badge/704078977.svg)](https://zenodo.org/badge/latestdoi/704078977)
