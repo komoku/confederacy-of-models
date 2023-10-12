@@ -22,12 +22,12 @@ The organization is as follows:
 
 The human-authored stories were written by:
 
-human1 - © 2023 by Kyle McKenzie
-human2 - © 2023 by Bree Glasbergen
-human3 - © 2023 by Kirsty Maclachlan
-human4 - © 2023 by Caitlin Noakes
-human5 - © 2023 by Ola Kwintowski
-humanUnused1 - © 2023 by Kylie Ryan
+- human1 - © 2023 by Kyle McKenzie
+- human2 - © 2023 by Bree Glasbergen
+- human3 - © 2023 by Kirsty Maclachlan
+- human4 - © 2023 by Caitlin Noakes
+- human5 - © 2023 by Ola Kwintowski
+- humanUnused1 - © 2023 by Kylie Ryan
 
 All stories are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
